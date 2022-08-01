@@ -12,6 +12,12 @@ Current content of repositories:
     Javascript, Typescript, CSS, HTML
 - Libraries/Frameworks
     React, NodeJS
+    
+Currently working on:
+- React
+- Docker
+    - Serving static HTML pages
+    - Simple API setup (Currently REST)
 
 
 <!---
