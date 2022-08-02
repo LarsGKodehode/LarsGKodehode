@@ -5,7 +5,7 @@ Interests:
 - Automation
 - Data visualization, aggregation & dissemination
 
-This is my starting reposotory while participating in a coding course.
+This is my starting repository while participating in a coding course.
 
 Current content of repositories:
 - Languages:
