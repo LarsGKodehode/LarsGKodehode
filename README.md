@@ -1,5 +1,5 @@
 Hi im @LarsGKodehode,
-a 32 year old man from western Norway.
+a 32 year old man from western Norway. Currently participating in a developer course, Kodehode by [Jobloop](https://jobloop.no/). 
 
 Interests:
 - Automation
