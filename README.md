@@ -1,31 +1,35 @@
-Hi im @LarsGKodehode,
-a 33 year old man from western Norway. Currently participating in a developer course, Kodehode by [Jobloop](https://jobloop.no/). 
+## About Me
 
-MO:
-"You have tools and you have problems.
-And some tools solves some problems."
+Hi im @LarsGKodehode,
+a 33 year old man from western Norway. Currently working as a teacher at Kodehode [Jobloop](https://jobloop.no/).
+
+Main subject:
+- Frontend React
+
+Other subjects:
+- Version Control Systems (Git)
 
 Interests:
 - Automation
-- Data visualization, aggregation & dissemination
+- Software Lifecycle
 - Language
 
-This is my starting profile while participating in a coding course Kodehode in Bergen, Norway.
+*MO:
+"You have tools and you have problems.
+And some tools solves some problems."*
 
-Current content of repositories:
+## The repositories within:
+
+This profile collects all the repositories used when teaching, some that are under considiration for inclusion as well as some that were created for helping specific students.
+
+Table of contents:
 - Languages:
-    Javascript, Typescript, CSS, HTML
+    Javascript, Typescript, CSS, HTML, PHP, Elixir, Rust
 - Libraries/Frameworks
-    React, NodeJS
+    React, NodeJS, Phoenix, Svelte, Laravel, Vite, CRA, NX, Jest, Vitest, Containers (mainly docker), Actix
+    
+    React Specific: React Router, Zustand, React Query
     
 Currently working on:
-- React
-- Docker
-    - Serving static HTML pages
-    - Simple API setup (Currently REST)
-
-
-<!---
-LarsGKodehode/LarsGKodehode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Elixir
+- Generic CICD pipeline for multilingual projects
