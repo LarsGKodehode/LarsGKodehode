@@ -20,7 +20,7 @@ And some tools solves some problems."*
 
 ## The repositories within:
 
-This profile collects all the repositories used when teaching, some that are under considiration for inclusion as well as some that were created for helping specific students.
+This profile collects all the repositories used when teaching, some that are under considiration for inclusion in the curriculum as well as some that were created for helping specific students.
 
 Table of contents:
 - Languages:
@@ -31,5 +31,5 @@ Table of contents:
     React Specific: React Router, Zustand, React Query
     
 Currently working on:
-- Elixir
+- Elixir + Phoenix
 - Generic CICD pipeline for multilingual projects
