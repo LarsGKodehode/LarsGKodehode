@@ -14,7 +14,6 @@ Interests:
 - Software Lifecycle
 - Language
 
-*MO:
 "You have tools and you have problems.
 And some tools solves some problems."*
 
