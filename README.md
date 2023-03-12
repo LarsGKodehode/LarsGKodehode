@@ -4,7 +4,7 @@ Hi im @LarsGKodehode,
 a 33 year old man from western Norway. Currently working as a teacher at Kodehode [Jobloop](https://jobloop.no/).
 
 Main subject:
-- Frontend React
+- Frontend frameworks: React
 
 Other subjects:
 - Version Control Systems (Git)
