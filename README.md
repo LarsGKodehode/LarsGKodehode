@@ -10,9 +10,10 @@ Other subjects:
 - Version Control Systems (Git)
 
 Interests:
+- Intellectual history
 - Automation
-- Software Lifecycle
-- Language
+- Software Design
+- Communication, visualization, language
 
 "You have tools and you have problems.
 And some tools solves some problems."*
