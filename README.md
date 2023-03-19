@@ -26,9 +26,9 @@ Table of contents:
 - Languages:
     Javascript, Typescript, CSS, HTML, PHP, Elixir, Rust
 - Libraries/Frameworks
-    React, NodeJS, Phoenix, Svelte, Laravel, Vite, CRA, NX, Jest, Vitest, Containers (mainly docker), Actix
+    React, NodeJS, Phoenix, Svelte, Laravel, Vite, CRA, NX, Jest, Vitest, Containers (mainly docker), Actix, NX
     
-    React Specific: React Router, Zustand, React Query
+    React Specific: React Router, Zustand, React Query, Nextjs
     
 Currently working on:
 - Elixir + Phoenix
